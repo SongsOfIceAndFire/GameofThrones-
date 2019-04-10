@@ -1,6 +1,6 @@
 # GameofThronesSeasonOne
 
-《The Swift Programming Language》in Chinese
+《swift学习教程》
 =============================================
 
 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
@@ -129,13 +129,3 @@ diff 操作如下：
 | alias | 别名 |
 | Assertion | 断言 |
 | conditional compilation | 条件编译 |
-
-# 贡献者
-
-[贡献者列表](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese/blob/gh-pages/source/contributors.md)，感谢大家！
-
-
-
-# 协议
-和 [苹果官方文档](https://swift.org/documentation/) 协议一致：[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)。
-
